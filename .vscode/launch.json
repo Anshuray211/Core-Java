@@ -1,0 +1,141 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "pascal",
+      "request": "launch",
+      "mainClass": "pascal",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "doh",
+      "request": "launch",
+      "mainClass": "doh",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_40_AccessModifier",
+      "request": "launch",
+      "mainClass": "cwh_40_AccessModifier",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_39_ch8_OOPs_practices",
+      "request": "launch",
+      "mainClass": "cwh_39_ch8_OOPs_practices",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_35_ch7_practices_uestion",
+      "request": "launch",
+      "mainClass": "cwh_35_ch7_practices_uestion",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_31_ch7_Methods",
+      "request": "launch",
+      "mainClass": "cwh_31_ch7_Methods",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "problem_3",
+      "request": "launch",
+      "mainClass": "problem_3",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "shutdown",
+      "request": "launch",
+      "mainClass": "shutdown",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_ch6_26",
+      "request": "launch",
+      "mainClass": "cwh_ch6_26",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "test_cwh25_ch5",
+      "request": "launch",
+      "mainClass": "test_cwh25_ch5",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_24_ch5",
+      "request": "launch",
+      "mainClass": "cwh_24_ch5",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_22_ch_5",
+      "request": "launch",
+      "mainClass": "cwh_22_ch_5",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "type": "java",
+      "name": "cwh_21_ch5_loops",
+      "request": "launch",
+      "mainClass": "cwh_21_ch5_loops",
+      "projectName": "Java Practice_46e70f72"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/rayan/OneDrive/Desktop/Java Practice",
+      "program": "c:/Users/rayan/OneDrive/Desktop/Java Practice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "C/C++: gcc.exe build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "C:/MinGW/bin",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: gcc.exe build active file"
+    }
+  ]
+}
